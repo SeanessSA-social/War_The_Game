@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: c19cfa07d39915e41be94f53a38f0619
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3819653281487911770
+    second: Soldier-Coat-Sheet_0
+  - first:
+      213: 3210287845014367747
+    second: Soldier-Coat-Sheet_1
+  - first:
+      213: -6633199764811021108
+    second: Soldier-Coat-Sheet_2
+  - first:
+      213: 129683477668354487
+    second: Soldier-Coat-Sheet_3
+  - first:
+      213: 3510038642656425679
+    second: Soldier-Coat-Sheet_4
+  - first:
+      213: 5085722461926149093
+    second: Soldier-Coat-Sheet_5
+  - first:
+      213: -3776276786527979923
+    second: Soldier-Coat-Sheet_6
+  - first:
+      213: 8944553870331417645
+    second: Soldier-Coat-Sheet_7
+  - first:
+      213: -4232238552151962702
+    second: Soldier-Coat-Sheet_8
+  - first:
+      213: 668178814763296079
+    second: Soldier-Coat-Sheet_9
+  - first:
+      213: -4957100334154084372
+    second: Soldier-Coat-Sheet_10
+  - first:
+      213: 6076989580907358756
+    second: Soldier-Coat-Sheet_11
+  - first:
+      213: -3573184434901178120
+    second: Soldier-Coat-Sheet_12
+  - first:
+      213: 6833037658026723317
+    second: Soldier-Coat-Sheet_13
+  - first:
+      213: 8421922050675880803
+    second: Soldier-Coat-Sheet_14
+  - first:
+      213: 5384085008759758244
+    second: Soldier-Coat-Sheet_15
+  - first:
+      213: -5415825259368497418
+    second: Soldier-Coat-Sheet_16
+  - first:
+      213: 8374095368600908747
+    second: Soldier-Coat-Sheet_17
+  - first:
+      213: -725350145668347479
+    second: Soldier-Coat-Sheet_18
+  - first:
+      213: 5056418553310992899
+    second: Soldier-Coat-Sheet_19
+  - first:
+      213: -2546865092941391907
+    second: Soldier-Coat-Sheet_20
+  - first:
+      213: -7411402219471354831
+    second: Soldier-Coat-Sheet_21
+  - first:
+      213: 238724880031919010
+    second: Soldier-Coat-Sheet_22
+  - first:
+      213: -5090185782930774719
+    second: Soldier-Coat-Sheet_23
+  - first:
+      213: -1741151019784841642
+    second: Soldier-Coat-Sheet_24
+  - first:
+      213: 8246982972809183199
+    second: Soldier-Coat-Sheet_25
+  - first:
+      213: -935369676395931262
+    second: Soldier-Coat-Sheet_26
+  - first:
+      213: 6305436932629755419
+    second: Soldier-Coat-Sheet_27
+  - first:
+      213: 7052059763103686374
+    second: Soldier-Coat-Sheet_28
+  - first:
+      213: 7633291390846272918
+    second: Soldier-Coat-Sheet_29
+  - first:
+      213: -2935041668448177095
+    second: Soldier-Coat-Sheet_30
+  - first:
+      213: -651740537017767429
+    second: Soldier-Coat-Sheet_31
+  - first:
+      213: -255663177356644083
+    second: Soldier-Coat-Sheet_32
+  - first:
+      213: 1315579774229737239
+    second: Soldier-Coat-Sheet_33
+  - first:
+      213: -8758769921068273814
+    second: Soldier-Coat-Sheet_34
+  - first:
+      213: 6148105601791652426
+    second: Soldier-Coat-Sheet_35
+  - first:
+      213: -5369143022780472126
+    second: Soldier-Coat-Sheet_36
+  - first:
+      213: 2816397970792227090
+    second: Soldier-Coat-Sheet_37
+  - first:
+      213: 4163231657877585116
+    second: Soldier-Coat-Sheet_38
+  - first:
+      213: -1860557357445325213
+    second: Soldier-Coat-Sheet_39
+  - first:
+      213: 2729094629390228431
+    second: Soldier-Coat-Sheet_40
+  - first:
+      213: 4467471294432064079
+    second: Soldier-Coat-Sheet_41
+  - first:
+      213: -7374811392805748369
+    second: Soldier-Coat-Sheet_42
+  - first:
+      213: -8080240660660054906
+    second: Soldier-Coat-Sheet_43
+  - first:
+      213: -4994423182736365501
+    second: Soldier-Coat-Sheet_44
+  - first:
+      213: 4347764361213364419
+    second: Soldier-Coat-Sheet_45
+  - first:
+      213: 2363377914690649266
+    second: Soldier-Coat-Sheet_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bfd301c62220530800000000000000
+      internalID: 3819653281487911770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ee5d449cb3d8c20800000000000000
+      internalID: 3210287845014367747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc40c3645f322f3a0800000000000000
+      internalID: -6633199764811021108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9d8a39f6abcc100800000000000000
+      internalID: 129683477668354487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc63e6b6c8926b030800000000000000
+      internalID: 3510038642656425679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb455142ad149640800000000000000
+      internalID: 5085722461926149093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66327d2548f79bc0800000000000000
+      internalID: -3776276786527979923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d241373da50712c70800000000000000
+      internalID: 8944553870331417645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbc44ec5711445c0800000000000000
+      internalID: -4232238552151962702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4568648719d54900800000000000000
+      internalID: 668178814763296079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef86ca8287d43bb0800000000000000
+      internalID: -4957100334154084372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aabb993ddc55450800000000000000
+      internalID: 6076989580907358756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8a2c020bf796ec0800000000000000
+      internalID: -3573184434901178120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7cc870c83d3de50800000000000000
+      internalID: 6833037658026723317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363b09cdb7da0e470800000000000000
+      internalID: 8421922050675880803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad91a31acc18ba40800000000000000
+      internalID: 5384085008759758244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6feb0c1fe9f17d4b0800000000000000
+      internalID: -5415825259368497418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc373b0be53c63470800000000000000
+      internalID: 8374095368600908747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a909a5b2e90fe5f0800000000000000
+      internalID: -725350145668347479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30adbc952e10c2640800000000000000
+      internalID: 5056418553310992899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7d26c11b7b7acd0800000000000000
+      internalID: -2546865092941391907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1344edcd2f8652990800000000000000
+      internalID: -7411402219471354831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aba959730f105300800000000000000
+      internalID: 238724880031919010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Coat-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145eaa7dff60c59b0800000000000000
+      internalID: -5090185782930774719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cfdd16d248f67534d88e321f79e2acb1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":36.0,"y":36.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Soldier-Coat-Sheet_0: 3819653281487911770
+      Soldier-Coat-Sheet_1: 3210287845014367747
+      Soldier-Coat-Sheet_10: -4957100334154084372
+      Soldier-Coat-Sheet_11: 6076989580907358756
+      Soldier-Coat-Sheet_12: -3573184434901178120
+      Soldier-Coat-Sheet_13: 6833037658026723317
+      Soldier-Coat-Sheet_14: 8421922050675880803
+      Soldier-Coat-Sheet_15: 5384085008759758244
+      Soldier-Coat-Sheet_16: -5415825259368497418
+      Soldier-Coat-Sheet_17: 8374095368600908747
+      Soldier-Coat-Sheet_18: -725350145668347479
+      Soldier-Coat-Sheet_19: 5056418553310992899
+      Soldier-Coat-Sheet_2: -6633199764811021108
+      Soldier-Coat-Sheet_20: -2546865092941391907
+      Soldier-Coat-Sheet_21: -7411402219471354831
+      Soldier-Coat-Sheet_22: 238724880031919010
+      Soldier-Coat-Sheet_23: -5090185782930774719
+      Soldier-Coat-Sheet_3: 129683477668354487
+      Soldier-Coat-Sheet_4: 3510038642656425679
+      Soldier-Coat-Sheet_5: 5085722461926149093
+      Soldier-Coat-Sheet_6: -3776276786527979923
+      Soldier-Coat-Sheet_7: 8944553870331417645
+      Soldier-Coat-Sheet_8: -4232238552151962702
+      Soldier-Coat-Sheet_9: 668178814763296079
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
