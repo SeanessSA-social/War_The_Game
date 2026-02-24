@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: ca693067dd937c948bda8a35f8235b3b
+guid: 550ea133c438fa649a66a8c87c132db3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4045699755863792029
-    second: Flag-Sheet_0
+      213: -7419082363059788850
+    second: Commander-Lose_0
   - first:
-      213: -6293470428667731920
-    second: Flag-Sheet_1
+      213: -2229741758598055770
+    second: Commander-Lose_1
   - first:
-      213: 7441413838313418748
-    second: Flag-Sheet_2
+      213: -7037966220127163719
+    second: Commander-Lose_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -54,7 +54,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 16
@@ -119,67 +119,67 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Flag-Sheet_0
+      name: Commander-Lose_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 12
-        width: 20
-        height: 24
+        x: 0
+        y: 0
+        width: 36
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9955203e76352830800000000000000
-      internalID: 4045699755863792029
+      spriteID: ec3a47616ef1a0990800000000000000
+      internalID: -7419082363059788850
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag-Sheet_1
+      name: Commander-Lose_1
       rect:
         serializedVersion: 2
-        x: 69
-        y: 12
-        width: 20
-        height: 24
+        x: 36
+        y: 0
+        width: 36
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 030a5d64df919a8a0800000000000000
-      internalID: -6293470428667731920
+      spriteID: 6a878e92fad5e01e0800000000000000
+      internalID: -2229741758598055770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag-Sheet_2
+      name: Commander-Lose_2
       rect:
         serializedVersion: 2
-        x: 117
-        y: 12
-        width: 20
-        height: 24
+        x: 72
+        y: 0
+        width: 36
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cffe85ba576354760800000000000000
-      internalID: 7441413838313418748
+      spriteID: 9ba2f14f20f145e90800000000000000
+      internalID: -7037966220127163719
       vertices: []
       indices: 
       edges: []
@@ -188,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6da3e24cf7c13d647bdcf4894498222b
     internalID: 0
     vertices: []
     indices: 
@@ -196,11 +196,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":36.0,"y":36.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Flag-Sheet_0: 4045699755863792029
-      Flag-Sheet_1: -6293470428667731920
-      Flag-Sheet_2: 7441413838313418748
+      Commander-Lose_0: -7419082363059788850
+      Commander-Lose_1: -2229741758598055770
+      Commander-Lose_2: -7037966220127163719
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
