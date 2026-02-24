@@ -260,6 +260,19 @@ PrefabInstance:
       propertyPath: m_FillAmount
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4112672559456192884, guid: 8924e8b25e9ac3b479d63e13882d3b34, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"healthBarImage","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Image,
+        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"healthBarNormalColor","value":{"r":0.1686275,"g":1.0,"b":0.0,"a":1.0,"$type":"UnityEngine.Color"},"typeHandle":{"Identification":"UnityEngine.Color,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"damageFlashColor","value":{"r":1.0,"g":1.0,"b":1.0,"a":1.0,"$type":"UnityEngine.Color"},"typeHandle":{"Identification":"UnityEngine.Color,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"damageFlashDuration","value":{"$content":0.12,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"damageFlashTimer","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"isDamagingFlash","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"maxHealth","value":{"$content":100.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"currentHealth","value":{"$content":10.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"healthReduction","value":{"$content":10.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 4643090214113031086, guid: 8924e8b25e9ac3b479d63e13882d3b34, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -524,7 +537,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 960.0356, y: -314.97992}
+  m_AnchoredPosition: {x: 959.94977, y: -315.02826}
   m_SizeDelta: {x: 342, y: 75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &880225557
@@ -678,8 +691,40 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 3939579520057156557, guid: f69e6992cc75a8741917d1ae387b2307, type: 3}
     - target: {fileID: 3082654255471675436, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3082654255471675436, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3082654255471675436, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 5945716936393248586}
+    - target: {fileID: 3082654255471675436, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3082654255471675436, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: TriggerUnityEvent
+      objectReference: {fileID: 0}
+    - target: {fileID: 3082654255471675436, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_TargetAssemblyTypeName
+      value: Unity.VisualScripting.ScriptMachine, Unity.VisualScripting.Flow
+      objectReference: {fileID: 0}
+    - target: {fileID: 3082654255471675436, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_StringArgument
       value: ArmySizeClicked
+      objectReference: {fileID: 0}
+    - target: {fileID: 3082654255471675436, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_StringArgument
+      value: Done Upgrade
+      objectReference: {fileID: 0}
+    - target: {fileID: 3082654255471675436, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 3130418512584059639, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
       propertyPath: m_AnchorMax.y
@@ -699,15 +744,47 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3130418512584059639, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 960.0356
+      value: 959.94977
       objectReference: {fileID: 0}
     - target: {fileID: 3130418512584059639, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -477.47992
+      value: -477.52826
+      objectReference: {fileID: 0}
+    - target: {fileID: 3332658799647242202, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3332658799647242202, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3332658799647242202, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 5945716936393248586}
+    - target: {fileID: 3332658799647242202, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3332658799647242202, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: TriggerUnityEvent
+      objectReference: {fileID: 0}
+    - target: {fileID: 3332658799647242202, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_TargetAssemblyTypeName
+      value: Unity.VisualScripting.ScriptMachine, Unity.VisualScripting.Flow
       objectReference: {fileID: 0}
     - target: {fileID: 3332658799647242202, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_StringArgument
       value: ReloadClicked
+      objectReference: {fileID: 0}
+    - target: {fileID: 3332658799647242202, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_StringArgument
+      value: Done Upgrade
+      objectReference: {fileID: 0}
+    - target: {fileID: 3332658799647242202, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 4558793152149461174, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
       propertyPath: m_Pivot.x
@@ -798,8 +875,40 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6096870590287162837, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096870590287162837, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096870590287162837, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 5945716936393248586}
+    - target: {fileID: 6096870590287162837, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096870590287162837, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: TriggerUnityEvent
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096870590287162837, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_TargetAssemblyTypeName
+      value: Unity.VisualScripting.ScriptMachine, Unity.VisualScripting.Flow
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096870590287162837, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_StringArgument
       value: CommandClicked
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096870590287162837, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_StringArgument
+      value: Done Upgrade
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096870590287162837, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 6720557564235028658, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
       propertyPath: m_Sprite
@@ -843,11 +952,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8336109523838451159, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 960.0356
+      value: 959.94977
       objectReference: {fileID: 0}
     - target: {fileID: 8336109523838451159, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -627.4799
+      value: -627.52826
       objectReference: {fileID: 0}
     - target: {fileID: 8624394214069258908, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
       propertyPath: m_AnchorMax.y
@@ -867,11 +976,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8624394214069258908, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 960.0356
+      value: 959.94977
       objectReference: {fileID: 0}
     - target: {fileID: 8624394214069258908, guid: fa63ef0fdedae2b468713a48a68babf2, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -777.4799
+      value: -777.52826
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1459,27 +1568,22 @@ PrefabInstance:
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ShotAccuracyMax","value":{"$content":2.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ShotAccuracyMin","value":{"$content":2.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"PlayerHealth","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Health","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Anim","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Animator,
+        UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Upgrade","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 4413975493881375084, guid: 0b957326de2bfcb4989251f2f0e8bc9e, type: 3}
       propertyPath: '_data._objectReferences.Array.data[1]'
       value: 
       objectReference: {fileID: 792294388}
+    - target: {fileID: 4413975493881375084, guid: 0b957326de2bfcb4989251f2f0e8bc9e, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[2]'
+      value: 
+      objectReference: {fileID: 531217786}
     - target: {fileID: 5439553793474703638, guid: 0b957326de2bfcb4989251f2f0e8bc9e, type: 3}
       propertyPath: m_Name
       value: Enemy Army
-      objectReference: {fileID: 0}
-    - target: {fileID: 6618634417508645568, guid: 0b957326de2bfcb4989251f2f0e8bc9e, type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"SoldierList","value":{"$content":[0,1,2,3,4,5],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"EnemyHealth","value":{"$content":6,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-      objectReference: {fileID: 0}
-    - target: {fileID: 6618634417508645568, guid: 0b957326de2bfcb4989251f2f0e8bc9e, type: 3}
-      propertyPath: _data._objectReferences.Array.size
-      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 6618634417508645568, guid: 0b957326de2bfcb4989251f2f0e8bc9e, type: 3}
       propertyPath: '_data._objectReferences.Array.data[6]'
@@ -1490,6 +1594,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0b957326de2bfcb4989251f2f0e8bc9e, type: 3}
+--- !u!114 &5945716936393248586 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2531414846740191924, guid: 0b957326de2bfcb4989251f2f0e8bc9e, type: 3}
+  m_PrefabInstance: {fileID: 5945716936393248583}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.VisualScripting.Flow::Unity.VisualScripting.ScriptMachine
 --- !u!1001 &7315364411305095298
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1560,11 +1675,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2197499079354301800, guid: ea60dd6f863f82c4ebf3a0e0cd4f0522, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 224.29
+      value: 224.28998
       objectReference: {fileID: 0}
     - target: {fileID: 2197499079354301800, guid: ea60dd6f863f82c4ebf3a0e0cd4f0522, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -87.7
+      value: -87.70001
       objectReference: {fileID: 0}
     - target: {fileID: 2197499079354301800, guid: ea60dd6f863f82c4ebf3a0e0cd4f0522, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
