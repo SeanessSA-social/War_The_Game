@@ -1,16 +1,19 @@
 fileFormatVersion: 2
-guid: ca693067dd937c948bda8a35f8235b3b
+guid: 41e0a90a974089e488168dfc3e91f57b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4045699755863792029
-    second: Flag-Sheet_0
+      213: 7676071868040344121
+    second: Commander-Lose-Walk_0
   - first:
-      213: -6293470428667731920
-    second: Flag-Sheet_1
+      213: 5084904410765000880
+    second: Commander-Lose-Walk_1
   - first:
-      213: 7441413838313418748
-    second: Flag-Sheet_2
+      213: -1989014773575922421
+    second: Commander-Lose-Walk_2
+  - first:
+      213: 8528672535551238454
+    second: Commander-Lose-Walk_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -54,7 +57,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 16
@@ -119,67 +122,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Flag-Sheet_0
+      name: Commander-Lose-Walk_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 12
-        width: 20
-        height: 24
+        x: 0
+        y: 0
+        width: 36
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9955203e76352830800000000000000
-      internalID: 4045699755863792029
+      spriteID: 932f9e4c1b2e68a60800000000000000
+      internalID: 7676071868040344121
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag-Sheet_1
+      name: Commander-Lose-Walk_1
       rect:
         serializedVersion: 2
-        x: 69
-        y: 12
-        width: 20
-        height: 24
+        x: 36
+        y: 0
+        width: 36
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 030a5d64df919a8a0800000000000000
-      internalID: -6293470428667731920
+      spriteID: 0b00770ee95319640800000000000000
+      internalID: 5084904410765000880
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag-Sheet_2
+      name: Commander-Lose-Walk_2
       rect:
         serializedVersion: 2
-        x: 117
-        y: 12
-        width: 20
-        height: 24
+        x: 72
+        y: 0
+        width: 36
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cffe85ba576354760800000000000000
-      internalID: 7441413838313418748
+      spriteID: b0dc0080a999564e0800000000000000
+      internalID: -1989014773575922421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander-Lose-Walk_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6316927fb7eeb5670800000000000000
+      internalID: 8528672535551238454
       vertices: []
       indices: 
       edges: []
@@ -188,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8dc7775e685519a47bf33670765d83d0
     internalID: 0
     vertices: []
     indices: 
@@ -196,11 +221,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":36.0,"y":36.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Flag-Sheet_0: 4045699755863792029
-      Flag-Sheet_1: -6293470428667731920
-      Flag-Sheet_2: 7441413838313418748
+      Commander-Lose-Walk_0: 7676071868040344121
+      Commander-Lose-Walk_1: 5084904410765000880
+      Commander-Lose-Walk_2: -1989014773575922421
+      Commander-Lose-Walk_3: 8528672535551238454
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
